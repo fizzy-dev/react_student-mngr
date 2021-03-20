@@ -1,0 +1,43 @@
+[
+    {
+        "id":1,
+        "name":"quang tran1",
+        "phone":"0962802026",
+        "role":1
+    },
+    {
+        "id":2,
+        "name":"quang tran2",
+        "phone":"0962802026",
+        "role":1
+    },
+    {
+        "id":3,
+        "name":"quang tran3",
+        "phone":"0962802026",
+        "role":2
+    },
+    {
+        "id":4,
+        "name":"quang tran4",
+        "phone":"0962802026",
+        "role":1
+    },
+    {
+        "id":5,
+        "name":"quang tran5",
+        "phone":"0962802026",
+        "role":1
+    },
+    {
+        "id":6,
+        "name":"quang tran6",
+        "phone":"0962802026",
+        "role":2
+    },{
+        "id":7,
+        "name":"quang tran7",
+        "phone":"0962802026",
+        "role":1
+    }
+]
